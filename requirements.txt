@@ -1,3 +1,9 @@
-streamlit
-pymupdf
-pillow
+streamlit==1.27.0
+streamlit-option-menu==0.3.2
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.0
+PyPDF2==3.0.0
+pillow==9.4.0
+pandas==1.5.3
+matplotlib==3.7.1
+openpyxl==3.1.2
